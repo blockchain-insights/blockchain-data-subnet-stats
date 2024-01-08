@@ -1,0 +1,13 @@
+bittensor==6.5.0
+torch
+python-bitcoinrpc
+bitcoin
+base58
+pycryptodome
+docker
+setuptools
+neo4j
+python-dotenv
+sqlalchemy
+requests
+urllib3
